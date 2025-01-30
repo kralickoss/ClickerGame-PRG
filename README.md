@@ -20,3 +20,4 @@
 
 ## 📷 Ukázka hry
 ![image](https://github.com/user-attachments/assets/30629356-6534-4231-80b3-a517a65bb73f)
+![image](https://github.com/user-attachments/assets/7acca22d-853c-4b14-875c-2cdebad683b6)
