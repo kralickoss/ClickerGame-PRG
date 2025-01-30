@@ -1,6 +1,6 @@
-# 🎮 Fufové třeste se!  
+# 🎮 Fufové, třeste se!  
 
-**Fufové třeste se!** je klikací hra vytvořená v **C# a WPF**, kde tvým cílem je klikat na náhodně se objevující objekty a sbírat body. Hra je jednoduchá, rychlá a otestuje tvé reflexy!  
+**Fufové, třeste se!** je klikací hra vytvořená v **C# a WPF**, kde tvým cílem je klikat na náhodně se objevující objekty a sbírat body. Hra je jednoduchá, rychlá a otestuje tvé reflexy!  
 
 ## 🔥 Jak hrát  
 1. Spusť hru.  
@@ -17,3 +17,6 @@
 ✅ Počítání skóre  
 ✅ Dynamická obtížnost (časem se hra zrychluje)  
 ✅ Jednoduchý, ale zábavný herní princip  
+
+## 📷 Ukázka hry
+![image](https://github.com/user-attachments/assets/30629356-6534-4231-80b3-a517a65bb73f)
